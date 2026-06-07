@@ -2,7 +2,7 @@
 
 # ✍️ LinkedIn Executive Content Engine (Prompt Engineering)
 
-### 🎯 Overview
+```### 🎯 Overview```
 An advanced, production-grade prompt system designed to transform raw thoughts, voice-to-text transcripts, or brief ideas from executives (CEOs, Founders, CTOs) into high-impact, human-written LinkedIn posts. It enforces strict negative constraints to eliminate the typical "AI-generated" footprint and optimizes formatting for mobile readability.
 
 ---
