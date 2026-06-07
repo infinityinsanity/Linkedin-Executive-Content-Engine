@@ -135,7 +135,7 @@ What's your team's protocol when things go wrong? Do you blame or debug?
 - Length: {LENGTH}
 
 ```
-=====================================================================================================================
+======================================================================================
 # Input Test:
 
 - Idea / Thought: {"I fired our best developer today because he was toxic to the team, even though he was a genius."}
@@ -151,7 +151,7 @@ What's your team's protocol when things go wrong? Do you blame or debug?
 
 
 
-
+```
 
 I fired our best developer today.
 
@@ -202,3 +202,4 @@ And when talent consistently damages culture, culture has to win.
 What's the toughest people decision you've had to make as a leader?
 
 #Leadership #EngineeringManagement #TechLeadership #CompanyCulture #SoftwareDevelopment #PeopleManagement
+```
