@@ -137,7 +137,7 @@ What's your team's protocol when things go wrong? Do you blame or debug?
 
 =====================================================================================================================
 # Input Test:
-
+```text
 - Idea / Thought: {"I fired our best developer today because he was toxic to the team, even though he was a genius."}
 - Industry: {Software Development}
 - Role / Position: {CTO / Tech Founder}
@@ -146,7 +146,7 @@ What's your team's protocol when things go wrong? Do you blame or debug?
 - Length: {Medium}
 
 # The Result:
-
+```text
 
 
 
